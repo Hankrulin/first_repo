@@ -1,3 +1,3 @@
 git checkout branch2
 git stash pop
-git commit -m "add file4"
+git commit -am "add file4"
