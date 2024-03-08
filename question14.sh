@@ -1,3 +1,2 @@
-cd git-practice-04
-git branch -r
+cd git-practice-04/
 git checkout update1
