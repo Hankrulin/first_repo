@@ -1,1 +1,1 @@
-git commmit -am "save"
+git commmit -m "save"
