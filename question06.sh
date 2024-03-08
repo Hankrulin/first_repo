@@ -1,2 +1,1 @@
-git add .
-git commmit -m "save"
+git commmit -am "save"

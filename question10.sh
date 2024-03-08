@@ -1,2 +1,2 @@
-git checkout -b main
+git checkout main
 git merge branch1
